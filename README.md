@@ -25,7 +25,7 @@
 
 ### 🐍 GitHub 提交图
 
-![github-snake](https://github.com/LittleBlacky/LittleBlacky/blob/output/github-snake.svg?raw=true)
+![github-snake](https://github.com/LittleBlacky/LittleBlacky/blob/dist/github-snake.svg?raw=true)
 
 ### 📬 联系我
 
