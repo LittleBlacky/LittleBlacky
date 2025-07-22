@@ -31,6 +31,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/LittleBlacky/LittleBlacky/blob/output/github-contribution-grid-snake.svg" />
   <img alt="github contribution grid snake" src="https://github.com/LittleBlacky/LittleBlacky/blob/output/github-contribution-grid-snake.svg" />
 </picture>
+
 ### 📬 联系我
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:805399080@qq.com)
+[![WeChat](https://img.shields.io/badge/WeChat-000000?style=for-the-badge&logo=wechat&logoColor=white)](/assets/wechat.png)
