@@ -6,6 +6,10 @@ on:
     - cron: "0 */2 * * *" 
   
   workflow_dispatch: # 允许手动触发
+
+  push:
+    branches:
+      - main # 只在 main 分支触发
   
 jobs:
   generate:
