@@ -22,6 +22,6 @@ jobs:
       - name: Push to GitHub
         uses: EndBug/add-and-commit@v9.1.4
         with:
-          branch: main
+
           message: 'Generate Contribution Snake'
           add: 'output/github-snake.svg output/github-snake-dark.svg'
