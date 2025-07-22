@@ -1,0 +1,19 @@
+name: Generate snake game
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: Jobs to update datas
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: LittleBlacky
+          outputs:
+            - dist/github-snake.svg
+            - dist/github-snake-dark.svg?palette=github-dark
