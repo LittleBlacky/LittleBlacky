@@ -1,4 +1,6 @@
-name: Generate snake game
+# GitHub Action for generating a contribution graph with a snake eating your contributions.
+
+name: Generate Snake
 
 on:
   schedule:
@@ -7,11 +9,17 @@ on:
 
 jobs:
   build:
-    name: Jobs to update datas
+    name: Generate snake game
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
       - uses: Platane/snk@v3
         with:
           github_user_name: LittleBlacky
-          outputs: blob/output/github-snake.svg, blob/output/github-snake-dark.svg?palette=github-dark
+          outputs: output/github-snake.svg, output/github-snake-dark.svg?palette=github-dark
+      - name: Push to GitHub
+        uses: EndBug/add-and-commit@v7.2.1
+        with:
+          branch: main
+          message: 'Generate Contribution Snake'
+          add: 'output/github-snake.svg output/github-snake-dark.svg'
