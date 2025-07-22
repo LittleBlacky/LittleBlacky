@@ -1,6 +1,4 @@
-## Hi there 👋
-
-欢迎来到LittleBlacky的 GitHub 主页！
+## 欢迎来到LittleBlacky的 GitHub 主页！ 👋
 
 ### 🚀 我的技能栈
 
