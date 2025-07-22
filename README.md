@@ -24,7 +24,7 @@
 ![otary's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleBlacky) <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LittleBlacky&layout=compact)<br>
 
-### 🐍 GitHub 提交热力图贪吃蛇
+### 🐍 GitHub 提交图
 
 ![github-snake](https://github.com/LittleBlacky/LittleBlacky/blob/output/github-snake.svg?raw=true)
 
