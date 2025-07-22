@@ -17,7 +17,6 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-
 ### 📊 GitHub 统计
 
 ![otary's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleBlacky) <br>
@@ -25,10 +24,12 @@
 
 ### 🐍 GitHub 提交图
 
+<!-- 放置贪吃蛇游戏 -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+<!-- 根据主题颜色来决定用亮的还是黑的 -->
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/LittleBlacky/LittleBlacky/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/LittleBlacky/LittleBlacky/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake" src="https://github.com/LittleBlacky/LittleBlacky/blob/output/github-contribution-grid-snake.svg" />
 </picture>
 ### 📬 联系我
 
