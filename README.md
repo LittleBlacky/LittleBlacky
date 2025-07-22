@@ -25,8 +25,11 @@
 
 ### 🐍 GitHub 提交图
 
-![github-snake](https://github.com/LittleBlacky/LittleBlacky/dist/github-snake.svg?raw=true)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 ### 📬 联系我
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:805399080@qq.com)
