@@ -2,4 +2,4 @@
 
 ![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleBlacky&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LittleBlacky&layout=compact&theme=tokyonight)
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=frameworks=vue,react,nuxt,next,next)](https://github.com/Jurredr/github-widgetbox)
+![](https://komarev.com/ghpvc/?username=LittleBlacky&abbreviated=true)
