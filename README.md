@@ -20,8 +20,11 @@
 <p align="center">
 
 ### 📊 GitHub stats
-<img src="https://github-readme-stats.vercel.app/api?username=LittleBlacky" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LittleBlacky&layout=compact" />
+<div style="display: flex">
+  <img src="https://github-readme-stats.vercel.app/api?username=LittleBlacky" style="flex: 1"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LittleBlacky&layout=compact" style="flex: 1"/>
+</div>
+
 
 ### 🐍 GitHub Submit
 
