@@ -21,8 +21,8 @@
 
 ### 📊 GitHub stats
 <div style="display: flex; width: 100%;">
-  <img src="https://github-readme-stats.vercel.app/api?username=LittleBlacky" style="width: 50%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LittleBlacky&layout=compact" style="width: 50%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LittleBlacky" style="flex: 1"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LittleBlacky&layout=compact" style="flex: 1"/>
 </div>
 
 
