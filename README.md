@@ -20,9 +20,11 @@
 <p align="center">
 
 ### 📊 GitHub stats
+<div style="display: flex">
+  ![otary's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleBlacky) 
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LittleBlacky&layout=compact)
+</div>
 
-![otary's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleBlacky) <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LittleBlacky&layout=compact)<br>
 
 ### 🐍 GitHub Submit
 
