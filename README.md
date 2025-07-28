@@ -15,7 +15,7 @@
 ### ⚒️ Languages and Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,nextjs,threejs,nodejs,nestjs,redis,mysql,nginx,docker,linux&perline=7&theme=light" />
+    <img src="https://skillicons.dev/icons?i=html,css,scss,postcss,js,ts,vue,react,nextjs,threejs,nodejs,nestjs,redis,mysql,nginx,docker,linux&perline=7&theme=light" />
   </a>
 <p align="center">
 
