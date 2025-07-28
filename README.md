@@ -12,6 +12,13 @@
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Dilettante258" /><br /><a href="https://wakatime.com/@018b8500-f033-47a0-93a2-83a68470fe74"><img src="https://wakatime.com/badge/user/018b8500-f033-47a0-93a2-83a68470fe74.svg" alt="Total time coded since Oct 31 2023" /></a><p />
 
+### ⚒️ Languages and Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,react,vue,js,ts,docker,linux,html,css,latex&perline=7&theme=light" />
+  </a>
+<p align="center">
+
 ### 📊 GitHub stats
 
 ![otary's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleBlacky) <br>
@@ -26,14 +33,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/LittleBlacky/LittleBlacky/blob/output/github-contribution-grid-snake.svg" />
   <img alt="github contribution grid snake" src="https://github.com/LittleBlacky/LittleBlacky/blob/output/github-contribution-grid-snake.svg" />
 </picture>
-
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,vue,js,ts,docker,linux,html,css,latex&perline=7&theme=light" />
-  </a>
-<p align="center">
 
 ### 📬 call me
 
