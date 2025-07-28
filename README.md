@@ -1,6 +1,6 @@
 ## Welcome to LittleBlacky's GitHub profile！ 👋
 <h1 align="center">Hi 👋, I'm LittleBlacky</h1>
-<h3 align="center" >A undergraduate student in Data Science</h3>
+<h3 align="center" >A full-time graduate student in Computational Science and Technology</h3>
 <!-- <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=LittleBlacky&show_icons=true&theme=radical" />
