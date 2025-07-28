@@ -20,8 +20,8 @@
 <p align="center">
 
 ### 📊 GitHub stats
-  ![otary's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleBlacky) 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LittleBlacky&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api?username=LittleBlacky" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LittleBlacky&layout=compact" />
 
 ### 🐍 GitHub Submit
 
