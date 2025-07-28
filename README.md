@@ -20,7 +20,7 @@
 <p align="center">
 
 ### 📊 GitHub stats
-<div style="display: flex; width: 100%;">
+<div style="display: flex; width: 100%; flex-direction: column; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=LittleBlacky" style="width: 50%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LittleBlacky&layout=compact" style="width: 50%"/>
 </div>
