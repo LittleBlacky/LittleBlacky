@@ -15,16 +15,13 @@
 ### ⚒️ Languages and Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,vue,js,ts,docker,linux,html,css,latex&perline=7&theme=light" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,vue,js,ts,nodejs,docker,linux,html,css,latex&perline=7&theme=light" />
   </a>
 <p align="center">
 
 ### 📊 GitHub stats
-<div style="display: flex">
   ![otary's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleBlacky) 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LittleBlacky&layout=compact)
-</div>
-
 
 ### 🐍 GitHub Submit
 
