@@ -26,7 +26,7 @@
 <p />
 
 
-### 🐍 GitHub Submit
+### ✅ GitHub Submit
 
 <!-- 放置贪吃蛇游戏 -->
 <picture>
