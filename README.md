@@ -16,7 +16,7 @@
 <p align="center">
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vite,webpack,rollup&perline=7&theme=light" />
+    <img src="https://skillicons.dev/icons?i=vite,webpack,rollup,babel&perline=7&theme=light" />
   </a>
 <p align="center">
 <p align="center">
