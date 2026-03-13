@@ -12,7 +12,7 @@
 ### ⚒️ Languages and Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,python,nodejs,nestjs,redis,mysql,postgresql,nginx,docker,linux&perline=7&theme=light" />
+    <img src="https://skillicons.dev/icons?i=ts,js,python,nodejs&perline=7&theme=light" />
   </a>
 <p align="center">
 <p align="center">
@@ -22,7 +22,7 @@
 <p align="center">
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,nestjs&perline=7&theme=light" />
+    <img src="https://skillicons.dev/icons?i=express,koa,nestjs,django,flask&perline=7&theme=light" />
   </a>
 <p align="center">
 <p align="center">
