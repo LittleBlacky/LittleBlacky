@@ -7,7 +7,7 @@
   </a>
 <p align="center"> -->
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=Dilettante258" /><p />
+<p align="center"><img src="https://komarev.com/ghpvc/?username=LittleBlacky" /><p />
 
 ### ⚒️ Languages and Tools
 <p align="center">
