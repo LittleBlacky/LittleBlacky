@@ -14,6 +14,11 @@
     <img src="https://skillicons.dev/icons?i=html,css,scss,tailwindcss,vue,react,nextjs&perline=7&theme=light" />
   </a>
 <p align="center">
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vite,webpack,rolldown&perline=7&theme=light" />
+  </a>
+<p align="center">
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=express,nestjs,flask&perline=7&theme=light" />
