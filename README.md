@@ -12,7 +12,7 @@
 ### ⚒️ Languages and Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,python,nodejs&perline=7&theme=light" />
+    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,python&perline=7&theme=light" />
   </a>
 <p align="center">
 <p align="center">
