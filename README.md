@@ -31,7 +31,7 @@
 <p align="center">
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,nginx,docker,versel&perline=7&theme=light" />
+    <img src="https://skillicons.dev/icons?i=linux,nginx,docker&perline=7&theme=light" />
   </a>
 <p align="center">
 
