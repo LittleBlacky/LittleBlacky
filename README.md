@@ -3,7 +3,7 @@
 <h3 align="center" >A full-time graduate student in Computational Science and Technology</h3>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=LittleBlacky" /><p/>
 [![wakatime](https://wakatime.com/badge/user/35685d57-2f24-431b-b83b-726047a9b6bd.svg)](https://wakatime.com/@35685d57-2f24-431b-b83b-726047a9b6bd)
-  ### ⚒️ Languages and Tools
+### ⚒️ Languages and Tools
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,js,nodejs,python&perline=7&theme=light" />
