@@ -14,12 +14,6 @@
     <img src="https://skillicons.dev/icons?i=vue,react,nextjs,tailwindcss&perline=7&theme=light" />
   </a>
 <p align="center">
-  <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vite,webpack,rollup,babel&perline=7&theme=light" />
-  </a>
-<p align="center">
-<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nestjs,fastapi&perline=7&theme=light" />
   </a>
