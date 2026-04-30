@@ -6,7 +6,7 @@
 ### ⚒️ Languages and Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,python,vue,react,nextjs,tailwindcss,fastapi,nestjs,mysql,postgresql,redis,linux,nginx,docker,vercel&perline=7&theme=light" />
+    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,python,vue,react,nextjs,tailwindcss,langchain,fastapi,nestjs,mysql,postgresql,redis,linux,nginx,docker,vercel&perline=7&theme=light" />
   </a>
 <p align="center">
 
