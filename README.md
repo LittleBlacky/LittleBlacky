@@ -1,4 +1,4 @@
-## Welcome to LittleBlacky's GitHub profile！ 👋
+# Welcome to LittleBlacky's GitHub profile！ 👋
 <h2 align="center">😭 Give me an offer, please 😭</h2>
 <h3 align="center" >A full-time graduate student in Computational Science and Technology</h3>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=LittleBlacky" /> <a href="https://wakatime.com/@35685d57-2f24-431b-b83b-726047a9b6bd"><img src="https://wakatime.com/badge/user/35685d57-2f24-431b-b83b-726047a9b6bd.svg" alt="Total time coded since Aug 5 2025" /></a><p/>
